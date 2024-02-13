@@ -47,7 +47,7 @@ from scipy import stats
 
 # Use read_csv() to import your data
 
-aqi = pd.read_csv("C:/Users/Sajindra/Downloads/Files (1)/Files/c4_epa_air_quality.csv")
+aqi = pd.read_csv("C:/Users/Sajindra/Files/c4_epa_air_quality.csv")
 
 
 # ## Step 2: Data Exploration
